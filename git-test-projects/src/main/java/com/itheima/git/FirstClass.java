@@ -6,6 +6,8 @@ public class FirstClass {
 
         System.out.println("hello git");
 
+        System.out.println("第一次修改");
+
     }
 
 }
